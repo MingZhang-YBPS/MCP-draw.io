@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-15T09:27:50.246Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="-h1-FZNUM3_7v1RzP30y" version="14.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-15T09:30:25.541Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="rhtup2hLj8RCrqVGSGLy" version="14.2.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1102" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -52,7 +52,7 @@
             <mxPoint x="280" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTsa3Wiq1v98yeb_qH0O-18" value="如果选择邮件方式，是否设定SMTP服务器" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aTsa3Wiq1v98yeb_qH0O-18" value="是否设置对应的通知渠道" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="400" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aTsa3Wiq1v98yeb_qH0O-19" value="" style="endArrow=block;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aTsa3Wiq1v98yeb_qH0O-7" target="aTsa3Wiq1v98yeb_qH0O-18">
@@ -61,7 +61,7 @@
             <mxPoint x="230" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aTsa3Wiq1v98yeb_qH0O-20" value="转到系统设置-&amp;gt;外部通信方式集成页面，设定SMTP服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="aTsa3Wiq1v98yeb_qH0O-20" value="转到系统设置-&amp;gt;外部通信方式集成页面，设定通知渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aTsa3Wiq1v98yeb_qH0O-21" value="否" style="endArrow=block;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="aTsa3Wiq1v98yeb_qH0O-18" target="aTsa3Wiq1v98yeb_qH0O-20">
